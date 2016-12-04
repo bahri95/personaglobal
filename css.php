@@ -12,6 +12,7 @@
     <!-- ######### CSS STYLES ######### -->
     <link rel="stylesheet" href="css/reset.css" type="text/css" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="stylesheet" href="css/style2.css" type="text/css" />
     <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
     
     <!-- responsive devices styles -->
@@ -25,7 +26,7 @@
     <link rel="stylesheet" type="text/css" href="js/jcarousel/skin.css" />
     <link rel="stylesheet" type="text/css" href="js/jcarousel/skin2.css" />
     <link rel="stylesheet" type="text/css" href="js/jcarousel/skin3.css" />
-    <link rel="stylesheet" href="css/custom.css" type="text/css" />
+
 	<!-- faqs -->
     <link rel="stylesheet" href="js/accordion/accordion.css" type="text/css" media="all">
     <link rel="stylesheet" type="text/css" href="js/portfolio/source/jquery.fancybox.css" media="screen" />

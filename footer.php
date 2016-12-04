@@ -35,33 +35,34 @@
          
         <div class="one_fourth">
         	
-            <div class="twitter_feed">
+            <h2>Useful <i>Links</i></h2>
             
-            	<h2>Latest <i>Tweets</i></h2>
-                
-                <div class="left"><i class="fa fa-twitter fa-lg"></i></div>
-                <div class="right"><a href="https://twitter.com/gsrthemes9" target="_blank">gsrthemes9</a>: Avira - Responsive html5 Professional and Brand New Look Template on ThemeForest.<br />
-				<a href="#" class="small">.9 days ago</a> .<a href="#" class="small">reply</a> .<a href="#" class="small">retweet</a> .<a href="#" class="small">favorite</a></div>
-                
-                <div class="clearfix divider_line4"></div>
-                
-                <div class="left"><i class="fa fa-twitter fa-lg"></i></div>
-                <div class="right"><a href="https://twitter.com/gsrthemes9" target="_blank">gsrthemes9</a>: Kinvexy - Responsive HTML5 / CSS3, Professional Corporate Theme.<br />
-				<a href="#" class="small">.10 days ago</a> .<a href="#" class="small">reply</a> .<a href="#" class="small">retweet</a> .<a href="#" class="small">favorite</a></div>
-                
-            </div>
+            <ul class="list">
+                <li><a href="#"><i class="fa fa-angle-right"></i> Home Page Variations</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Awsome Slidershows</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Features and Typography</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Different &amp; Unique Pages</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Single and Portfolios</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Recent Blogs or News</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Layered PSD Files</a></li>
+            </ul>
             
         </div><!-- end tweets -->
         
         
         <div class="one_fourth last">
         	
-            <h2>Flickr <i>Photos</i></h2>
+           <h2>Useful <i>Links</i></h2>
             
-        	<div id="flickr_badge_wrapper">
-            	<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=9&amp;display=latest&amp;size=s&amp;layout=h&amp;source=user&amp;user=93382411%40N07"></script>     
-            </div>
-            
+            <ul class="list">
+                <li><a href="#"><i class="fa fa-angle-right"></i> Home Page Variations</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Awsome Slidershows</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Features and Typography</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Different &amp; Unique Pages</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Single and Portfolios</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Recent Blogs or News</a></li>
+                <li><a href="#"><i class="fa fa-angle-right"></i> Layered PSD Files</a></li>
+            </ul>
         </div><!-- end flickr -->
              
     </div>

@@ -2,7 +2,6 @@
 ======================================= -->  
 
 <div class="container_full">
-    
     <div class="tp-banner-container">
 		<div class="tp-banner" >
         

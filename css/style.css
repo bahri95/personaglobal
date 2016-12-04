@@ -982,7 +982,7 @@ a.button_slider_02:hover {
 /* people says */
 .people_says_main {
 	float: left;
-	width: 47%;
+	width: 100%;
 	padding-right: 2.8%;
 	border-right: 1px dashed #eee;
 }
@@ -1019,33 +1019,16 @@ a.button_slider_02:hover {
 }
 
 /* clients/partners */
-.partners {
-	float: left;
-	width: 47%;
-	padding-left: 3%;
+
+.wrap-clients{
+	width: 100%;
+	height: 100px;
+	background-color: #CCC;
 }
-.partners ul {
+.clients {
 	float: left;
 	width: 100%;
-	padding: 0px;
-	margin: 0px;
-}
-.partners li {
-	float: left;
-	width: 167px;
-	padding: 10px 0px 8px 0px;
-	margin: 0px 20px 0px 0px;
-	text-align: center;
-	border-radius: 4px;
-	border: 1px solid #eee;
-}
-.partners li.last {
-	margin: 0px 0px 0px 0px;
-}
-.partners h3 {
-	margin-bottom: 30px;
-	text-transform: uppercase;
-	font-weight: 600;
+	margin-top: 50px;
 }
 
 

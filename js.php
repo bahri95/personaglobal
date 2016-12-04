@@ -60,6 +60,9 @@
 	jQuery(document).ready(function() {
 			jQuery('#mycarouselfour').jcarousel();
 	});
+    jQuery(document).ready(function() {
+            jQuery('#mycarouselfive').jcarousel();
+    });
 	
 </script>
 
@@ -151,3 +154,5 @@
 
     });
 </script>
+ 
+   
